@@ -1,0 +1,11 @@
+[2022-08-08 16:13:05,724] {processor.py:163} INFO - Started process (PID=59) to work on /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-08 16:13:05,726] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-08 16:13:05,727] {logging_mixin.py:109} INFO - [2022-08-08 16:13:05,727] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-08 16:13:05,812] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-08 16:13:06,729] {logging_mixin.py:109} INFO - [2022-08-08 16:13:06,729] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-08-08 16:13:06,804] {logging_mixin.py:109} INFO - [2022-08-08 16:13:06,804] {dag.py:2937} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-08-08 16:13:06,865] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 1.147 seconds
+[2022-08-08 16:14:25,671] {processor.py:163} INFO - Started process (PID=131) to work on /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-08 16:14:25,779] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-08 16:14:25,802] {logging_mixin.py:109} INFO - [2022-08-08 16:14:25,802] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-08 16:14:36,055] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/airflow/.local/lib/python3.7/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
